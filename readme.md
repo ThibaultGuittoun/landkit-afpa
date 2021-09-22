@@ -6,7 +6,8 @@ git config --global user.email "thibault@gmail.com"
 
 
 
-//git bash
+//git bash\\
+
 git init 
 
 cd + glisser le fichier
@@ -15,3 +16,12 @@ git add.
 git commit -m ""
 
 git status ##verifier le statu des fichiers git
+
+
+git branch ##voir les branches
+git branch nomdebranche ##creer un branche
+git checkout nomdebranche ##change de branche
+
+
+
+
